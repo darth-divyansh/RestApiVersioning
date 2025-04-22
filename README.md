@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # API Versioning Strategies with Spring Boot
 
 API versioning is a crucial aspect of API design that allows developers to manage changes and updates to their APIs while ensuring backward compatibility. In this project, we explore different strategies for API versioning using Spring Boot.
