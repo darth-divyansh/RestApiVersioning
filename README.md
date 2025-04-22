@@ -67,5 +67,3 @@ Media type versioning, also known as content negotiation, involves specifying th
 
 Each versioning strategy offers its own set of advantages and considerations, and the choice of approach depends on factors such as project requirements, client preferences, and compatibility concerns. By understanding and implementing these versioning strategies, developers can effectively manage API evolution and ensure a smooth and consistent experience for API consumers.
 =======
-# RestApiVersioning
->>>>>>> 51b73928d0a645ac52098dd2c5e4ea3622c62c25
